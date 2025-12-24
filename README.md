@@ -14,18 +14,6 @@ A modular framework that combines **DAGMA causal discovery** with **Bidirectiona
 - **🚀 Easy to Use**: Three-step pipeline from raw data to trained models
 - **📈 Comprehensive Evaluation**: Built-in metrics and visualization tools
 
-## 📖 Table of Contents
-
-- [Installation](#installation)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Methodology](#methodology)
-- [Usage Examples](#usage-examples)
-- [Results](#results)
-- [Citation](#citation)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🛠️ Installation
 
 ### Prerequisites
